@@ -8,3 +8,7 @@ Software Architecture resources
 * A Philosophy of Software Design [amz](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 * The Cathedral and the Bazaar [epub](http://www.feedbooks.com/book/4285/the-cathedral-and-the-bazaar)
 * Refactoring, Martin Fawler: [amz](https://www.amazon.com/gp/product/0134757599/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134757599&linkCode=as2&tag=martinfowlerc-20)
+
+## Whitepapers
+
+* Microsoft Cloud Design Patterns: [url](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
