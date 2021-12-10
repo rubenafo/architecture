@@ -14,5 +14,5 @@ Software Architecture resources
 * Microsoft Cloud Design Patterns: [url](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Frameworks
-TOGAF: [url](https://www.opengroup.org/togaf)
+TOGAF: [url](https://www.opengroup.org/togaf).  
 AWS Well-Architected Framework: [url](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
