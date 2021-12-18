@@ -16,3 +16,6 @@ Software Architecture resources
 ## Frameworks
 TOGAF: [url](https://www.opengroup.org/togaf).  
 AWS Well-Architected Framework: [url](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+
+## Certifications
+AWS Solutions Architect - Associate [url](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
