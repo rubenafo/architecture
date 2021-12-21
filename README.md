@@ -19,3 +19,4 @@ AWS Well-Architected Framework: [url](https://aws.amazon.com/architecture/well-a
 
 ## Certifications
 AWS Solutions Architect - Associate [url](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+AWS Solutions Architect - Professional [ur](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
