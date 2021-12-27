@@ -10,7 +10,7 @@ Software Architecture resources
 * Refactoring, Martin Fawler: [amz](https://www.amazon.com/gp/product/0134757599/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134757599&linkCode=as2&tag=martinfowlerc-20)
 
 ## Whitepapers
-
+* Martin Fowler notes on Software Architecture: [link](https://martinfowler.com/architecture/)
 * Microsoft Cloud Design Patterns: [url](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Frameworks
