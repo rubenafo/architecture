@@ -1,5 +1,5 @@
 # Architecture
-Software Architecture resources
+Software & Systems Architecture resources
 
 ## Books
 * Patterns of Enterprise Application Architecture: [link](https://martinfowler.com/books/eaa.html)
@@ -11,12 +11,16 @@ Software Architecture resources
 
 ## Whitepapers
 * Martin Fowler notes on Software Architecture: [link](https://martinfowler.com/architecture/)
-* Microsoft Cloud Design Patterns: [url](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+* Microsoft Cloud Design Patterns: [link](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Frameworks
-TOGAF: [url](https://www.opengroup.org/togaf).  
-AWS Well-Architected Framework: [url](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+TOGAF: [link](https://www.opengroup.org/togaf).  
+AWS Well-Architected Framework: [link](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
 
 ## Certifications
-AWS Solutions Architect - Associate: [url](https://aws.amazon.com/certification/certified-solutions-architect-associate/).  
-AWS Solutions Architect - Professional: [url](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+### AWS
+AWS Solutions Architect - Associate: [link](https://aws.amazon.com/certification/certified-solutions-architect-associate/).  
+AWS Solutions Architect - Professional: [link](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+
+### Linux Foundation
+Certified FinOps - [link](https://training.linuxfoundation.org/certification/certified-finops/)
