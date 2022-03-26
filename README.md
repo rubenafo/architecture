@@ -23,4 +23,4 @@ AWS Solutions Architect - Associate: [link](https://aws.amazon.com/certification
 AWS Solutions Architect - Professional: [link](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
 ### Linux Foundation
-Certified FinOps - [link](https://training.linuxfoundation.org/certification/certified-finops/)
+FinOps Certified Practitioner (FOCP) - [link](https://training.linuxfoundation.org/certification/certified-finops/)
