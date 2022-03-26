@@ -1,5 +1,5 @@
 # Architecture
-Software & Systems Architecture resources
+Software & Systems Architecture resources, curated every now and then
 
 ## Books
 * Patterns of Enterprise Application Architecture: [link](https://martinfowler.com/books/eaa.html)
