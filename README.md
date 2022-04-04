@@ -22,5 +22,8 @@ AWS Well-Architected Framework: [link](https://aws.amazon.com/architecture/well-
 AWS Solutions Architect - Associate: [link](https://aws.amazon.com/certification/certified-solutions-architect-associate/).  
 AWS Solutions Architect - Professional: [link](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
+### CISCO
+CISSP – Certified Information Systems Security Professional: [link](https://www.isc2.org/Certifications/CISSP)
+
 ### Linux Foundation
 FinOps Certified Practitioner (FOCP) - [link](https://training.linuxfoundation.org/certification/certified-finops/)
