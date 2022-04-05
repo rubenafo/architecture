@@ -1,5 +1,5 @@
 # Architecture
-Software & Systems Architecture resources, curated every now and then
+Software & Systems Architecture resources, curated every now and then.
 
 ## Books
 * Patterns of Enterprise Application Architecture: [link](https://martinfowler.com/books/eaa.html)
@@ -26,5 +26,5 @@ AWS Solutions Architect - Professional: [link](https://aws.amazon.com/certificat
 CISSP – Certified Information Systems Security Professional: [link](https://www.isc2.org/Certifications/CISSP)
 
 ### Linux Foundation
-Certified IT Associate (LFCA) - [link](https://training.linuxfoundation.org/certification/certified-it-associate)
+Certified IT Associate (LFCA) - [link](https://training.linuxfoundation.org/certification/certified-it-associate).  
 FinOps Certified Practitioner (FOCP) - [link](https://training.linuxfoundation.org/certification/certified-finops)
