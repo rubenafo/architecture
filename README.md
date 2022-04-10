@@ -15,17 +15,18 @@ Software & Systems Architecture resources, curated every now and then.
 * Microsoft Cloud Design Patterns: [link](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Frameworks
-TOGAF: [link](https://www.opengroup.org/togaf).  
-AWS Well-Architected Framework: [link](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+* TOGAF: [link](https://www.opengroup.org/togaf).  
+* AWS Well-Architected Framework: [link](https://aws.amazon.com/architecture/well-architected).  
+* Azure Cloud Design Patterns: [link](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Certifications
 ### AWS
-AWS Solutions Architect - Associate: [link](https://aws.amazon.com/certification/certified-solutions-architect-associate/).  
-AWS Solutions Architect - Professional: [link](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+* AWS Solutions Architect - Associate: [link](https://aws.amazon.com/certification/certified-solutions-architect-associate/).  
+* AWS Solutions Architect - Professional: [link](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
 ### CISCO
-CISSP – Certified Information Systems Security Professional: [link](https://www.isc2.org/Certifications/CISSP)
+* CISSP – Certified Information Systems Security Professional: [link](https://www.isc2.org/Certifications/CISSP)
 
 ### Linux Foundation
-Certified IT Associate (LFCA) - [link](https://training.linuxfoundation.org/certification/certified-it-associate).  
-FinOps Certified Practitioner (FOCP) - [link](https://training.linuxfoundation.org/certification/certified-finops)
+* Certified IT Associate (LFCA) - [link](https://training.linuxfoundation.org/certification/certified-it-associate).  
+* FinOps Certified Practitioner (FOCP) - [link](https://training.linuxfoundation.org/certification/certified-finops)
