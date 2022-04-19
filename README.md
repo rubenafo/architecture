@@ -14,6 +14,8 @@ Software & Systems Architecture resources, curated every now and then.
 ## Whitepapers
 * Martin Fowler notes on Software Architecture: [link](https://martinfowler.com/architecture/)
 * Microsoft Cloud Design Patterns: [link](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+* Why does Enterprise Architecture Matter: [link](https://pubs.opengroup.org/onlinepubs/7699929399/toc.pdf)
+* Oracle Enterprise Architecture Framework, Information Architecture Domain: [link](https://www.oracle.com/technetwork/topics/entarch/oea-info-arch-framework-dev-process-513866.pdf)
 
 ## Frameworks
 * TOGAF: [link](https://www.opengroup.org/togaf).  
