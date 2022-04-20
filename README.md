@@ -9,7 +9,8 @@ Software & Systems Architecture resources, curated every now and then.
 * The Cathedral and the Bazaar [epub](http://www.feedbooks.com/book/4285/the-cathedral-and-the-bazaar)
 * Refactoring, Martin Fawler: [amz](https://www.amazon.com/gp/product/0134757599/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134757599&linkCode=as2&tag=martinfowlerc-20)
 * Designing Data-Intensive Applications (2016, Martin Kleppmann): [amz](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-* Clean Code (2009, Robert C. Martin): [pdf](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf) 
+* Clean Code (2009, Robert C. Martin): [pdf](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
+* Building the Data Lake (2021, Bill Inmon): [link](https://www.amazon.com/Building-Data-Lakehouse-Bill-Inmon-ebook/dp/B09GRZ9KP3)
 
 ## Whitepapers
 * Martin Fowler notes on Software Architecture: [link](https://martinfowler.com/architecture/)
