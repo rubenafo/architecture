@@ -11,6 +11,7 @@ Software & Systems Architecture resources, curated every now and then.
 * Designing Data-Intensive Applications (2016, Martin Kleppmann): [amz](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 * Clean Code (2009, Robert C. Martin): [pdf](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
 * Building the Data Lake (2021, Bill Inmon): [link](https://www.amazon.com/Building-Data-Lakehouse-Bill-Inmon-ebook/dp/B09GRZ9KP3)
+* The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science (2021, Alex Gorelik): [link](https://www.amazon.com/dp/B07NY44RKR/?_encoding=UTF8&pd_rd_w=mYVIf&pf_rd_p=6dc817c6-8361-4c43-b0dc-df87832bac02&pf_rd_r=KZPJEVEK2NDKZHCE2GKD&pd_rd_r=b4782f9d-c5c5-4328-824a-9b8a7eac1604&pd_rd_wg=5J20T&ref_=bd_tags_dp_rec)
 
 ## Whitepapers
 * Martin Fowler notes on Software Architecture: [link](https://martinfowler.com/architecture/)
